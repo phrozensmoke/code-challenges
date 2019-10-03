@@ -1,0 +1,56 @@
+MANUAL VERIFICATION OF **WHY** each blank zip code was left blank to ensure python program behaved correctly.
+
+
+zipcode,rate
+64148,245.20
+67118,212.35
+40813, 			-- no KY rates provided
+18229,231.48
+51012,252.76
+79168,243.68
+54923,        	-- zip in more than one rate area
+67651,249.44
+49448,221.63
+27702,283.08
+47387,326.98
+50014,287.30
+33608,268.49
+06239,			-- no CT rates provided
+54919,243.77
+46706,			-- zip in more than one rate area
+14846,			-- zip in more than one rate area
+48872,			-- zip in more than one rate area
+43343,			-- zip in more than one rate area
+77052,243.72
+07734,			-- rate area had only one silver plan for NJ 1
+95327,			-- no CA rates provided
+12961,			-- no NY rates provided
+26716,278.90
+48435,			-- zip in more than one rate area
+53181,306.56
+52654,230.29
+58703,297.93
+91945,			-- no CA rates provided
+52146,254.56
+56097,			-- zip in more than one rate area
+21777,			-- no MD rates provided
+42330,			-- no KY rates provided
+38849,285.69
+77586,243.72
+39745,265.73
+03299,240.45
+63359,			-- zip in more than one rate area
+60094,209.95
+15935,183.94
+39845,325.64
+48418,			-- zip in more than one rate area
+28411,307.51
+37333,219.29
+75939,234.50
+07184,			-- rate area had only one silver plan for NJ 1
+86313,292.90
+61232,222.38
+20047,			-- no KY rates provided
+47452,			-- zip in more than one rate area
+31551,296.75
+

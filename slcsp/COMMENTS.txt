@@ -1,0 +1,21 @@
+The homework was completed in Python. Even though I've been working mostly with Java in recent years, I've always found Python 
+to be faster / more-efficient for this type of text parsing and processing and, usually, Python can handle it with fewer lines of code than Java.
+
+No special libraries are needed.  This Python version was testing with Python 3.7.3 
+
+
+INSTRUCTIONS 
+
+PYTHON VERSION (built with Python 3.7.3 on a Windows 10 machine):
+1. Open an MS-DOS prompt (or Linux/Unix shell)
+2. Ensure that the plans.csv, zips.csv, and slcsp.csv files are in the SAME folder/directory as the python script.
+3. Run the python script with the command 'python homework2.py' 
+
+
+
+
+SPECIAL NOTES: 
+On the Windows machine, Python automatically appends a 'new-line' character after each line printed to stdout for the CSV.  I did not have access to any other operating 
+systems at the time I did this homework to test if this is also the case on Mac and/or Linux/Unix.
+
+The file 'verification_notes' are just notes I took to manually verify that any 'blank' zip codes were legitimately blank.
